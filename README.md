@@ -352,8 +352,8 @@ int main() {
 
 ## OUTPUT:
 
-
+<img width="1096" height="295" alt="image" src="https://github.com/user-attachments/assets/d69886e4-db64-4d7f-9f63-fc1a9f4487fc" />
 
 
 ## RESULT:
-Thus, the program has been executed using CUDA to ________________.
+Thus, the program has been executed using CUDA to perform parallel Bubble Sort and Merge Sort operations on the GPU and compare their performance with CPU implementations.
